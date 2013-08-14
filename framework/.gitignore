@@ -5,6 +5,5 @@
 deploy/
 packages
 .buildlog
-pubspec.lock
 lib/docs/
 out/
