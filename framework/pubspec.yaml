@@ -4,3 +4,4 @@ dependencies:
   browser: any
   unittest: any
   web_ui: any
+  delegate: any
